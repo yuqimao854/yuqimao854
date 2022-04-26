@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi i am yuqimao 👋
+I'm a Front-End developer.
 
+🔭 I’m currently learning on Next.js
+💬 Ask me about nothing
 <!--
 **yuqimao854/yuqimao854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
